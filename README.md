@@ -91,6 +91,8 @@ Autoflow performs these tasks automatically :
 
 Here is a small video tutorial for Autoflow :
 
+[![AUTOFLOW DEMO](http://img.youtube.com/vi/gFxF6lZ3los/0.jpg)](https://www.youtube.com/watch?v=gFxF6lZ3los "Autoflow Demo")
+
 
 
 
