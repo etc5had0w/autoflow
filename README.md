@@ -50,7 +50,7 @@ Overall the idea behind building this tool is to perform the stack based buffer 
 ## How To Install Autoflow ?
 
 ```
-git clone
+git clone https://github.com/etc5had0w/autoflow.git
 
 cd autoflow/
 
@@ -74,17 +74,17 @@ Note : Make sure you execute Autoflow only from the Autoflow Folder.
 
 Autoflow performs these tasks automatically :
 
-* 1.Fuzzing
+* Fuzzing
 
-* 2.Offset Matching
+* Offset Matching
 
-* 3.EIP Register Overwriting
+* EIP Register Overwriting
 
-* 4.Seding Intended Buffer for Bad Character Detection
+* Seding Intended Buffer for Bad Character Detection
 
-* 5.Generating Payload For Reverse Shell
+* Generating Payload For Reverse Shell
 
-* 6.Sending Malicious Buffer to Spawn a Reverse Shell
+* Sending Malicious Buffer to Spawn a Reverse Shell
 
 
 ## How to use Autoflow :
